@@ -43,5 +43,5 @@ fun product(x: Int, y:Int): Int{
 }
 
 fun main() {
-    //println(calculate(2, 2, {}));
+    println(calculate(6, 2) { x, y -> x / y });
 }
