@@ -1,4 +1,4 @@
-package com.example.examples.inheritance.afterUsingInheritance
+package com.example.examples.inheritance.inheritance
 
 class BasicUser (username: String, password: String){
     val username:String = username;

@@ -1,3 +1,5 @@
 package com.example.examples.inheritance
-fun main() {
+
+class AnyClass {
+
 }
