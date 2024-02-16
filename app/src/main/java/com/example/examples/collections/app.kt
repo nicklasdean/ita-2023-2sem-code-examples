@@ -7,8 +7,6 @@ fun main() {
         //println(number);
     }
 
-    //A list of strings that can be sorted
-
     //A HashMap example with country & number of citizens
     val phonebook: HashMap<String, Int> = HashMap<String, Int>();
     phonebook.put("Nicklas", 20436262);
